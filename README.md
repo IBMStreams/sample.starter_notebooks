@@ -16,7 +16,7 @@ Open an issue or [ask a question on the Streamsdev forums](https://developer.ibm
 
 
 <a name="howto"></a>
-### To use with IBM Watson Studio or IBM Cloud Pak for Data (ICP4D):
+### To use with IBM Watson Studio or IBM Cloud Pak for Data (CP4D):
 
 Add a notebook to your project by clicking "Add notebook".
 
