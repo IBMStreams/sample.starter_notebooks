@@ -16,21 +16,17 @@ Open an issue or [ask a question on the Streamsdev forums](https://developer.ibm
 
 
 <a name="howto"></a>
-### To use with IBM Watson Studio or IBM Cloud Pak for Data (CP4D):
+### To use with IBM Cloud Pak for Data (CP4D)
 
 Add a notebook to your project by clicking "Add notebook".
 
-**IBM Cloud Pak for Data:**
-
-
 ![add a notebook from cp4d](img/add-notebook-icp4d.jpg)
 
-
+Add a project containing all notebooks by clicking "New project", type a project name, confirm with _OK_ and choose _From File_ to add the `cp4d-streams-project.zip` file.
 
 ![add a project from cp4d](img/from-project-file.png)
 
-**IBM Watson Studio:**
-
+### To use with IBM Watson Studio
 
 ![add a notebook from studio](img/add-notebook-studio.jpg)
 
