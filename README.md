@@ -23,7 +23,11 @@ Add a notebook to your project by clicking "Add notebook".
 **IBM Cloud Pak for Data:**
 
 
-![add a notebook from icp4d](img/add-notebook-icp4d.jpg)
+![add a notebook from cp4d](img/add-notebook-icp4d.jpg)
+
+
+
+![add a project from cp4d](img/from-project-file.png)
 
 **IBM Watson Studio:**
 
@@ -32,3 +36,5 @@ Add a notebook to your project by clicking "Add notebook".
 
 Choose _From File_ if you have downloaded the notebook, or _From url_ to use the [raw github URL of the notebook](https://i.stack.imgur.com/V05bP.png).
 ![add a notebook from studio](img/from-file.jpg)
+
+
