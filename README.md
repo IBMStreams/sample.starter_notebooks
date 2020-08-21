@@ -18,12 +18,10 @@ These notebooks are a good starting point for using the [Streams Python API](htt
 
 ### Find more samples
 - Search the [IBM Streams samples catalog](https://ibmstreams.github.io/samples/?filter=python) for more advanced Python samples.
-- Visit the [Streams community, Streamsdev](https://developer.ibm.com/streamsdev/) for articles and tutorials.
-
 
 ### Getting help
 
-Open an issue or [ask a question on the Streamsdev forums](https://developer.ibm.com/answers/smart-spaces/22/streamsdev.html).
+Open an issue or [ask a question on the IBM support forums](https://www.ibm.com/mysupport/s/forumsproduct?language=en_US&name=Streams&id=0TO50000000IQN0GAO).
 
 
 <a name="howto"></a>
