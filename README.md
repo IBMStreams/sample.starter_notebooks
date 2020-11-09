@@ -13,6 +13,7 @@ These notebooks are a good starting point for using the [Streams Python API](htt
 - [Streams-KafkaBasicSample application](#KafkaBasicSample):  demonstrates how to create a Streams Python application that connects to a Kafka cluster. 
 - [Streams-KafkaParallelSample application](#KafkaParallelSample):  connects to a Kafka cluster by using a consumer group and uses partitioned parallel processing of fetched messages.
 - [Streams-PMMLScoringSample application](#PMMLScoringSample): perform scoring with a Predictive Model Markup Language (PMML) model and view the results.
+- [Streams-CPD-WMLScoringSample application](#WMLScoringSample): Shows storing, deploying and online scoring using Watson Machine Learning (WML) instance in Cloud Pak for Data
 - [Streams-SPLToolkitsTutorial](#SPLToolkitsTutorial): demonstrates how to discover toolkits and python packages, shows how to integrate SPL toolkit operators in your topology
 
 [See below](#howto) for how to add these notebooks to IBM Watson Studio or IBM Cloud Pak for Data.
