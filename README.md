@@ -144,6 +144,19 @@ In addition, these templates include the following code samples and sample appli
         Connect to the consumer job to view data.
         Cancel the running jobs.
 
+<a name="WMLScoringSample"></a>
+**Streams-CPD-WMLScoringSample application**
+    This sample application requires Watson Machine Learning service, shows storing, deploying and online scoring of the Iris PMML model and view the results. It includes all Python code cells that you need to perform the following tasks:
+
+        Work with the Watson Machine Learning (WML) instance
+        Store a PMML model in WML repository
+        Deploy the stored model as Online Deployment
+        Score single data with the deployed model to test the deployment
+        Create the application.
+        Submit a job to the IBM Streams instance to start the streams processing application.
+        Connect to the job to view data.
+        Cancel the running job.
+        
 <a name="PMMLScoringSample"></a>
 **Streams-PMMLScoringSample application**
     This sample application demonstrates creating a Streams Python application to perform scoring with a Predictive Model Markup Language (PMML) model and view the results. It includes all Python code cells that you need to perform the following tasks:
