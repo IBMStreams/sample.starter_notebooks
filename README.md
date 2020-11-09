@@ -150,12 +150,4 @@ Streams-PMMLScoringSample application
         Connect to the job to view data.
         Cancel the running job.
 
-<a name="SPLToolkitsTutorial"></a>
-Streams-SPLToolkitsTutorial
-    This notebook demonstrates how to discover, use, build and launch SPL toolkits in a Python notebook. It includes all Python code cells that you need to perform the following tasks:
 
-        Discover Python packages.
-        Discover Toolkits on Streams build service.
-        Create the application (a) sample application (b) microservices (c) integrate SPL operators.
-        Submit a job(s) to the IBM Streams instance to start the streams processing application.
-        Cancel the running job(s).
